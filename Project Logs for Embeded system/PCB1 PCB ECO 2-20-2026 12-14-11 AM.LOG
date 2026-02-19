@@ -1,0 +1,545 @@
+Added Component: Designator=A1(AVR-ISP)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Gravitech"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "AVR-ISP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/AVR-ISP/Gravitech/view-part/4593377/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C1(cap)
+Added Component: Designator=C2(cap)
+Added Component: Designator=C3(cap)
+Added Component: Designator=h1(Male_header_3)
+Added Component: Designator=h2(Male_header_3)
+Added Component: Designator=h3(Male_header_5)
+Added Component: Designator=h4(Male_header_4)
+Added Component: Designator=h5(Male_header_4)
+Added Component: Designator=h6(Male_header_4)
+Added Component: Designator=j1(male header 8x2.54)
+Added Component: Designator=j2(male header 8x2.54)
+Added Component: Designator=J3(DIP787W46P254L927H533Q8)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/24LC04B/P/Microchip+Technology/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "24LC04B/P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DIP-8 Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/24LC04B/P/Microchip+Technology/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J4(TE_1986717-8)
+Add component (AddParameter): Name = "Centerline_Pitch"; Value = "3.5 mm[.138 in]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/1986717-8/TE+Connectivity+AMP+Connectors/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "1986717-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number_of_Positions"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/1986717-8/TE+Connectivity+AMP+Connectors/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J5(TE_1986717-8)
+Add component (AddParameter): Name = "Centerline_Pitch"; Value = "3.5 mm[.138 in]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/1986717-8/TE+Connectivity+AMP+Connectors/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "1986717-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number_of_Positions"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/1986717-8/TE+Connectivity+AMP+Connectors/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J6(TE_1986717-8)
+Add component (AddParameter): Name = "Centerline_Pitch"; Value = "3.5 mm[.138 in]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/1986717-8/TE+Connectivity+AMP+Connectors/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "1986717-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number_of_Positions"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/1986717-8/TE+Connectivity+AMP+Connectors/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J7(TE_1986717-8)
+Add component (AddParameter): Name = "Centerline_Pitch"; Value = "3.5 mm[.138 in]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/1986717-8/TE+Connectivity+AMP+Connectors/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "1986717-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number_of_Positions"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/1986717-8/TE+Connectivity+AMP+Connectors/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J8(JST_B6B-PH-K)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/B6B-PH-K/JST/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "JST Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "B6B-PH-K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/B6B-PH-K/JST/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=L1(LED_Red)
+Added Component: Designator=L2(LED_Red)
+Added Component: Designator=L3(LED_Red)
+Added Component: Designator=R1(R_THT_CFR-25)
+Add component (AddParameter): Name = "Case/Package"; Value = "Axial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/throughhole/Yageo_LR_CFR_2013.pdf&src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/throughhole/Yageo_LR_CFR_2013.pdf&src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "http://www.yageo.com/documents/recent/General%20Type_CFR.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.yageo.com/documents/recent/General%20Type_CFR.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "0.248inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "CFR-25JB-52-1K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "250mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter Name 1"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "250mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.10000, 25=0.04680, 50=0.03640, 100=0.02600, 250=0.02028, 500=0.01612, 750=0.01379, 1000=0.01144, 2000=0.00988 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "1kR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Type"; Value = "Carbon Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "194074"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1.0KQBK-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "500ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Added Component: Designator=R2(R_THT_CFR-25)
+Add component (AddParameter): Name = "Case/Package"; Value = "Axial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/throughhole/Yageo_LR_CFR_2013.pdf&src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/throughhole/Yageo_LR_CFR_2013.pdf&src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "http://www.yageo.com/documents/recent/General%20Type_CFR.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.yageo.com/documents/recent/General%20Type_CFR.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "0.248inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "CFR-25JB-52-1K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "250mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter Name 1"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "250mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.10000, 25=0.04680, 50=0.03640, 100=0.02600, 250=0.02028, 500=0.01612, 750=0.01379, 1000=0.01144, 2000=0.00988 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "1kR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Type"; Value = "Carbon Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "194074"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1.0KQBK-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "500ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Added Component: Designator=R3(POT_PTN16-A50220K1B1)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/PTN16-A50220K1B1/Same+Sky/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Same Sky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "PTN16-A50220K1B1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/PTN16-A50220K1B1/Same+Sky/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R4(R_THT_CFR-25)
+Add component (AddParameter): Name = "Case/Package"; Value = "Axial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/throughhole/Yageo_LR_CFR_2013.pdf&src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/throughhole/Yageo_LR_CFR_2013.pdf&src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "http://www.yageo.com/documents/recent/General%20Type_CFR.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.yageo.com/documents/recent/General%20Type_CFR.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "0.248inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "CFR-25JB-52-1K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "250mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter Name 1"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "250mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.10000, 25=0.04680, 50=0.03640, 100=0.02600, 250=0.02028, 500=0.01612, 750=0.01379, 1000=0.01144, 2000=0.00988 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "1kR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Type"; Value = "Carbon Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "194074"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1.0KQBK-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "500ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Added Component: Designator=R5(R_THT_CFR-25)
+Add component (AddParameter): Name = "Case/Package"; Value = "Axial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/throughhole/Yageo_LR_CFR_2013.pdf&src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/throughhole/Yageo_LR_CFR_2013.pdf&src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "http://www.yageo.com/documents/recent/General%20Type_CFR.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.yageo.com/documents/recent/General%20Type_CFR.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "0.248inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "CFR-25JB-52-1K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "250mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter Name 1"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "250mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.10000, 25=0.04680, 50=0.03640, 100=0.02600, 250=0.02028, 500=0.01612, 750=0.01379, 1000=0.01144, 2000=0.00988 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "1kR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Type"; Value = "Carbon Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "194074"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1.0KQBK-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "500ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Added Component: Designator=R6(R_THT_CFR-25)
+Add component (AddParameter): Name = "Case/Package"; Value = "Axial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/throughhole/Yageo_LR_CFR_2013.pdf&src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/throughhole/Yageo_LR_CFR_2013.pdf&src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "http://www.yageo.com/documents/recent/General%20Type_CFR.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.yageo.com/documents/recent/General%20Type_CFR.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "0.248inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "CFR-25JB-52-1K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "250mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter Name 1"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "250mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.10000, 25=0.04680, 50=0.03640, 100=0.02600, 250=0.02028, 500=0.01612, 750=0.01379, 1000=0.01144, 2000=0.00988 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "1kR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Type"; Value = "Carbon Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "194074"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1.0KQBK-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "500ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Added Component: Designator=R7(R_THT_CFR-25)
+Add component (AddParameter): Name = "Case/Package"; Value = "Axial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/throughhole/Yageo_LR_CFR_2013.pdf&src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/throughhole/Yageo_LR_CFR_2013.pdf&src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "http://www.yageo.com/documents/recent/General%20Type_CFR.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.yageo.com/documents/recent/General%20Type_CFR.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "0.248inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "CFR-25JB-52-1K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "250mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter Name 1"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "250mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.10000, 25=0.04680, 50=0.03640, 100=0.02600, 250=0.02028, 500=0.01612, 750=0.01379, 1000=0.01144, 2000=0.00988 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "1kR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Type"; Value = "Carbon Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "194074"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1.0KQBK-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "500ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Added Component: Designator=R8(R_THT_CFR-25)
+Add component (AddParameter): Name = "Case/Package"; Value = "Axial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/throughhole/Yageo_LR_CFR_2013.pdf&src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/throughhole/Yageo_LR_CFR_2013.pdf&src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "http://www.yageo.com/documents/recent/General%20Type_CFR.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.yageo.com/documents/recent/General%20Type_CFR.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "0.248inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "CFR-25JB-52-1K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "250mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter Name 1"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "250mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.10000, 25=0.04680, 50=0.03640, 100=0.02600, 250=0.02028, 500=0.01612, 750=0.01379, 1000=0.01144, 2000=0.00988 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "1kR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Type"; Value = "Carbon Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "194074"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1.0KQBK-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "500ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Added Component: Designator=R9(POT_PTN16-A50220K1B1)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/PTN16-A50220K1B1/Same+Sky/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Same Sky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "PTN16-A50220K1B1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/PTN16-A50220K1B1/Same+Sky/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=S1(SW_BUTT-2)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/BUTT-2/Gravitech/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Gravitech"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "BUTT-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/BUTT-2/Gravitech/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=S2(SW_KAS2102E)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/KAS2102E/E-Switch/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "E-Switch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "KAS2102E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/KAS2102E/E-Switch/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=S3(SW_BUTT-2)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/BUTT-2/Gravitech/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Gravitech"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "BUTT-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/BUTT-2/Gravitech/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=S4(SW_BUTT-2)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/BUTT-2/Gravitech/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Gravitech"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "BUTT-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/BUTT-2/Gravitech/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U1(3M_240-1280-00-0602J)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ATMEGA32A-PU/Microchip/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ATMEGA32A-PU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "PDIP-40 Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ATMEGA32A-PU/Microchip/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U2(MODULE_LCD-16X2)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/LCD-16X2/Gravitech/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Gravitech"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LCD-16X2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LCD-16X2/Gravitech/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Y1(XTAL_CA-18.432-18-3050-X)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/CA-18.432-18-3050-X/Aker/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Aker"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CA-18.432-18-3050-X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/CA-18.432-18-3050-X/Aker/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=A1-GND
+Added Pin To Net: NetName=PB6 Pin=A1-MISO
+Added Pin To Net: NetName=PB5 Pin=A1-MOSI
+Added Pin To Net: NetName=RESET Pin=A1-RST
+Added Pin To Net: NetName=PB7 Pin=A1-SCK
+Added Pin To Net: NetName=VCC Pin=A1-VCC
+Added Pin To Net: NetName=VCC Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=XTAL1 Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=XTAL2 Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=Neth1_0 Pin=h1-0
+Added Pin To Net: NetName=PB3 Pin=h1-1
+Added Pin To Net: NetName=Neth2_0 Pin=h2-0
+Added Pin To Net: NetName=PD7 Pin=h2-1
+Added Pin To Net: NetName=XTAL1 Pin=h3-0
+Added Pin To Net: NetName=XTAL2 Pin=h3-1
+Added Pin To Net: NetName=VCC Pin=h3-2
+Added Pin To Net: NetName=VCC Pin=h3-2
+Add Pin To Net: Unknown Pin: Pin h3-3
+Added Pin To Net: NetName=R/W Pin=h4-0
+Added Pin To Net: NetName=PC1 Pin=h4-1
+Added Pin To Net: NetName=PC1 Pin=h4-1
+Add Pin To Net: Unknown Pin: Pin h4-2
+Added Pin To Net: NetName=E Pin=h5-0
+Added Pin To Net: NetName=PC0 Pin=h5-1
+Added Pin To Net: NetName=PC0 Pin=h5-1
+Add Pin To Net: Unknown Pin: Pin h5-2
+Added Pin To Net: NetName=PB2 Pin=h6-0
+Added Pin To Net: NetName=Neth6_1 Pin=h6-1
+Added Pin To Net: NetName=Neth6_1 Pin=h6-1
+Add Pin To Net: Unknown Pin: Pin h6-2
+Added Pin To Net: NetName=GND Pin=j1-0
+Added Pin To Net: NetName=GND Pin=j1-1
+Added Pin To Net: NetName=GND Pin=j1-2
+Added Pin To Net: NetName=GND Pin=j1-3
+Added Pin To Net: NetName=GND Pin=j1-4
+Added Pin To Net: NetName=GND Pin=j1-5
+Added Pin To Net: NetName=GND Pin=j1-6
+Added Pin To Net: NetName=GND Pin=j1-8
+Added Pin To Net: NetName=GND Pin=j1-9
+Added Pin To Net: NetName=GND Pin=j1-10
+Added Pin To Net: NetName=GND Pin=j1-11
+Added Pin To Net: NetName=GND Pin=j1-12
+Added Pin To Net: NetName=VCC Pin=j2-0
+Added Pin To Net: NetName=VCC Pin=j2-1
+Added Pin To Net: NetName=VCC Pin=j2-2
+Added Pin To Net: NetName=VCC Pin=j2-3
+Added Pin To Net: NetName=VCC Pin=j2-4
+Added Pin To Net: NetName=VCC Pin=j2-5
+Added Pin To Net: NetName=VCC Pin=j2-6
+Added Pin To Net: NetName=VCC Pin=j2-7
+Added Pin To Net: NetName=VCC Pin=j2-8
+Added Pin To Net: NetName=VCC Pin=j2-9
+Added Pin To Net: NetName=VCC Pin=j2-10
+Added Pin To Net: NetName=VCC Pin=j2-11
+Added Pin To Net: NetName=VCC Pin=j2-12
+Added Pin To Net: NetName=GND Pin=J3-1
+Added Pin To Net: NetName=GND Pin=J3-2
+Added Pin To Net: NetName=GND Pin=J3-3
+Added Pin To Net: NetName=GND Pin=J3-4
+Added Pin To Net: NetName=SDA Pin=J3-5
+Added Pin To Net: NetName=SCL Pin=J3-6
+Added Pin To Net: NetName=VCC Pin=J3-8
+Added Pin To Net: NetName=PA7 Pin=J4-1
+Added Pin To Net: NetName=PA6 Pin=J4-2
+Added Pin To Net: NetName=PA5 Pin=J4-3
+Added Pin To Net: NetName=PA4 Pin=J4-4
+Added Pin To Net: NetName=PA3 Pin=J4-5
+Added Pin To Net: NetName=PA2 Pin=J4-6
+Added Pin To Net: NetName=PA1 Pin=J4-7
+Added Pin To Net: NetName=PA0 Pin=J4-8
+Added Pin To Net: NetName=PC0 Pin=J5-1
+Added Pin To Net: NetName=PC1 Pin=J5-2
+Added Pin To Net: NetName=PC2 Pin=J5-3
+Added Pin To Net: NetName=PC3 Pin=J5-4
+Added Pin To Net: NetName=PC4 Pin=J5-5
+Added Pin To Net: NetName=PC5 Pin=J5-6
+Added Pin To Net: NetName=PC6 Pin=J5-7
+Added Pin To Net: NetName=PC7 Pin=J5-8
+Added Pin To Net: NetName=PB7 Pin=J6-1
+Added Pin To Net: NetName=PB6 Pin=J6-2
+Added Pin To Net: NetName=PB5 Pin=J6-3
+Added Pin To Net: NetName=PB4 Pin=J6-4
+Added Pin To Net: NetName=PB3 Pin=J6-5
+Added Pin To Net: NetName=PB2 Pin=J6-6
+Added Pin To Net: NetName=PB1 Pin=J6-7
+Added Pin To Net: NetName=PB0 Pin=J6-8
+Added Pin To Net: NetName=PD0 Pin=J7-1
+Added Pin To Net: NetName=PD1 Pin=J7-2
+Added Pin To Net: NetName=PD2 Pin=J7-3
+Added Pin To Net: NetName=PD3 Pin=J7-4
+Added Pin To Net: NetName=PD4 Pin=J7-5
+Added Pin To Net: NetName=PD5 Pin=J7-6
+Added Pin To Net: NetName=PD6 Pin=J7-7
+Added Pin To Net: NetName=PD7 Pin=J7-8
+Added Pin To Net: NetName=GND Pin=J8-1
+Added Pin To Net: NetName=PD1 Pin=J8-2
+Added Pin To Net: NetName=PD0 Pin=J8-3
+Added Pin To Net: NetName=VCC Pin=J8-5
+Added Pin To Net: NetName=VCC Pin=J8-6
+Add Pin To Net: Unknown Pin: Pin L1-1
+Add Pin To Net: Unknown Pin: Pin L1-2
+Add Pin To Net: Unknown Pin: Pin L2-1
+Add Pin To Net: Unknown Pin: Pin L2-2
+Add Pin To Net: Unknown Pin: Pin L3-1
+Add Pin To Net: Unknown Pin: Pin L3-2
+Added Pin To Net: NetName=Neth1_0 Pin=R1-1
+Added Pin To Net: NetName=VCC Pin=R1-2
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=Neth1_0 Pin=R2-2
+Added Pin To Net: NetName=VCC Pin=R3-1
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Pin To Net: NetName=GND Pin=R3-3
+Added Pin To Net: NetName=VCC Pin=R4-1
+Added Pin To Net: NetName=NetL1_1 Pin=R4-2
+Added Pin To Net: NetName=VCC Pin=R5-1
+Added Pin To Net: NetName=NetR5_2 Pin=R5-2
+Added Pin To Net: NetName=VCC Pin=R6-1
+Added Pin To Net: NetName=NetL2_1 Pin=R6-2
+Added Pin To Net: NetName=NetL3_1 Pin=R7-1
+Added Pin To Net: NetName=VCC Pin=R7-2
+Added Pin To Net: NetName=VCC Pin=R8-1
+Added Pin To Net: NetName=RESET Pin=R8-2
+Added Pin To Net: NetName=VCC Pin=R9-1
+Added Pin To Net: NetName=Neth6_1 Pin=R9-2
+Added Pin To Net: NetName=GND Pin=R9-3
+Added Pin To Net: NetName=PD2 Pin=S1-1
+Added Pin To Net: NetName=GND Pin=S1-2
+Added Pin To Net: NetName=PA6 Pin=S2-1
+Added Pin To Net: NetName=GND Pin=S2-2
+Added Pin To Net: NetName=PA7 Pin=S2-3
+Added Pin To Net: NetName=GND Pin=S2-4
+Added Pin To Net: NetName=Neth2_0 Pin=S3-1
+Added Pin To Net: NetName=GND Pin=S3-2
+Added Pin To Net: NetName=RESET Pin=S4-1
+Added Pin To Net: NetName=GND Pin=S4-2
+Added Pin To Net: NetName=PB0 Pin=U1-1
+Added Pin To Net: NetName=PB1 Pin=U1-2
+Added Pin To Net: NetName=PB2 Pin=U1-3
+Added Pin To Net: NetName=PB3 Pin=U1-4
+Added Pin To Net: NetName=PB4 Pin=U1-5
+Added Pin To Net: NetName=PB5 Pin=U1-6
+Added Pin To Net: NetName=PB6 Pin=U1-7
+Added Pin To Net: NetName=PB7 Pin=U1-8
+Added Pin To Net: NetName=RESET Pin=U1-9
+Added Pin To Net: NetName=VCC Pin=U1-10
+Added Pin To Net: NetName=GND Pin=U1-11
+Added Pin To Net: NetName=XTAL2 Pin=U1-12
+Added Pin To Net: NetName=XTAL1 Pin=U1-13
+Added Pin To Net: NetName=PD0 Pin=U1-14
+Added Pin To Net: NetName=PD1 Pin=U1-15
+Added Pin To Net: NetName=PD2 Pin=U1-16
+Added Pin To Net: NetName=PD3 Pin=U1-17
+Added Pin To Net: NetName=PD4 Pin=U1-18
+Added Pin To Net: NetName=PD5 Pin=U1-19
+Added Pin To Net: NetName=PD6 Pin=U1-20
+Added Pin To Net: NetName=PD7 Pin=U1-21
+Added Pin To Net: NetName=PC0 Pin=U1-22
+Added Pin To Net: NetName=PC1 Pin=U1-23
+Added Pin To Net: NetName=PC2 Pin=U1-24
+Added Pin To Net: NetName=PC3 Pin=U1-25
+Added Pin To Net: NetName=PC4 Pin=U1-26
+Added Pin To Net: NetName=PC5 Pin=U1-27
+Added Pin To Net: NetName=PC6 Pin=U1-28
+Added Pin To Net: NetName=PC7 Pin=U1-29
+Added Pin To Net: NetName=VCC Pin=U1-30
+Added Pin To Net: NetName=GND Pin=U1-31
+Added Pin To Net: NetName=VCC Pin=U1-32
+Added Pin To Net: NetName=PA7 Pin=U1-33
+Added Pin To Net: NetName=PA6 Pin=U1-34
+Added Pin To Net: NetName=PA5 Pin=U1-35
+Added Pin To Net: NetName=PA4 Pin=U1-36
+Added Pin To Net: NetName=PA3 Pin=U1-37
+Added Pin To Net: NetName=PA2 Pin=U1-38
+Added Pin To Net: NetName=PA1 Pin=U1-39
+Added Pin To Net: NetName=PA0 Pin=U1-40
+Added Pin To Net: NetName=GND Pin=U2-1
+Added Pin To Net: NetName=VCC Pin=U2-2
+Added Pin To Net: NetName=NetR3_2 Pin=U2-3
+Added Pin To Net: NetName=R/W Pin=U2-5
+Added Pin To Net: NetName=E Pin=U2-6
+Added Pin To Net: NetName=PC4 Pin=U2-11
+Added Pin To Net: NetName=PC5 Pin=U2-12
+Added Pin To Net: NetName=PC6 Pin=U2-13
+Added Pin To Net: NetName=PC7 Pin=U2-14
+Added Pin To Net: NetName=GND Pin=U2-15
+Added Pin To Net: NetName=NetR5_2 Pin=U2-16
+Added Pin To Net: NetName=XTAL2 Pin=Y1-1
+Added Pin To Net: NetName=XTAL1 Pin=Y1-2
+Added Member To Class: ClassName=Sheet1 Member=Component A1 AVR-ISP
+Added Member To Class: ClassName=Sheet1 Member=Component C1 cap
+Added Member To Class: ClassName=Sheet1 Member=Component C2 cap
+Added Member To Class: ClassName=Sheet1 Member=Component C3 cap
+Added Member To Class: ClassName=Sheet1 Member=Component h1 header-3
+Added Member To Class: ClassName=Sheet1 Member=Component h2 header-3
+Added Member To Class: ClassName=Sheet1 Member=Component h3 header-5
+Added Member To Class: ClassName=Sheet1 Member=Component h4 header-4
+Added Member To Class: ClassName=Sheet1 Member=Component h5 header-4
+Added Member To Class: ClassName=Sheet1 Member=Component h6 header-4
+Added Member To Class: ClassName=Sheet1 Member=Component j1 header-12
+Added Member To Class: ClassName=Sheet1 Member=Component j2 header-12
+Added Member To Class: ClassName=Sheet1 Member=Component J3 24LC04B/P
+Added Member To Class: ClassName=Sheet1 Member=Component J4 1986717-8
+Added Member To Class: ClassName=Sheet1 Member=Component J5 1986717-8
+Added Member To Class: ClassName=Sheet1 Member=Component J6 1986717-8
+Added Member To Class: ClassName=Sheet1 Member=Component J7 1986717-8
+Added Member To Class: ClassName=Sheet1 Member=Component J8 B6B-PH-K_1
+Added Member To Class: ClassName=Sheet1 Member=Component L1 LED Red
+Added Member To Class: ClassName=Sheet1 Member=Component L2 LED Red
+Added Member To Class: ClassName=Sheet1 Member=Component L3 LED Red
+Added Member To Class: ClassName=Sheet1 Member=Component R1 1k
+Added Member To Class: ClassName=Sheet1 Member=Component R2 1k
+Added Member To Class: ClassName=Sheet1 Member=Component R3 PTN16-A50220K1B1
+Added Member To Class: ClassName=Sheet1 Member=Component R4 1k
+Added Member To Class: ClassName=Sheet1 Member=Component R5 1k
+Added Member To Class: ClassName=Sheet1 Member=Component R6 1k
+Added Member To Class: ClassName=Sheet1 Member=Component R7 1k
+Added Member To Class: ClassName=Sheet1 Member=Component R8 1k
+Added Member To Class: ClassName=Sheet1 Member=Component R9 PTN16-A50220K1B1
+Added Member To Class: ClassName=Sheet1 Member=Component S1 BUTT-2
+Added Member To Class: ClassName=Sheet1 Member=Component S2 KAS2102E
+Added Member To Class: ClassName=Sheet1 Member=Component S3 BUTT-2
+Added Member To Class: ClassName=Sheet1 Member=Component S4 BUTT-2
+Added Member To Class: ClassName=Sheet1 Member=Component U1 ATMEGA32A-PU
+Added Member To Class: ClassName=Sheet1 Member=Component U2 LCD-16X2
+Added Member To Class: ClassName=Sheet1 Member=Component Y1 CA-18.432-18-3050-X

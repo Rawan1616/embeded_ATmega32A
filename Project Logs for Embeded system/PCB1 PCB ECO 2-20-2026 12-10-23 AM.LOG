@@ -1,0 +1,25 @@
+Added Component: Designator=A1(AVR-ISP)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Gravitech"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "AVR-ISP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/AVR-ISP/Gravitech/view-part/4593377/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=A1-GND
+Added Pin To Net: NetName=PB6 Pin=A1-MISO
+Added Pin To Net: NetName=PB5 Pin=A1-MOSI
+Added Pin To Net: NetName=RESET Pin=A1-RST
+Added Pin To Net: NetName=PB7 Pin=A1-SCK
+Added Pin To Net: NetName=VCC Pin=A1-VCC
+Add Pin To Net: Unknown Pin: Pin h3-3
+Add Pin To Net: Unknown Pin: Pin h4-2
+Add Pin To Net: Unknown Pin: Pin h5-2
+Add Pin To Net: Unknown Pin: Pin h6-2
+Add Pin To Net: Unknown Pin: Pin L1-1
+Add Pin To Net: Unknown Pin: Pin L1-2
+Add Pin To Net: Unknown Pin: Pin L2-1
+Add Pin To Net: Unknown Pin: Pin L2-2
+Add Pin To Net: Unknown Pin: Pin L3-1
+Add Pin To Net: Unknown Pin: Pin L3-2
+Added Member To Class: ClassName=Sheet1 Member=Component A1 AVR-ISP
