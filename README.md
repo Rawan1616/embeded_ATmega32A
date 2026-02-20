@@ -1,1 +1,0 @@
-# embeded_ATmega32A
