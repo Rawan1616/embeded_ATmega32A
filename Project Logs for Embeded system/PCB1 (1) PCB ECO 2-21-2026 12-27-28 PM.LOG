@@ -1,0 +1,58 @@
+Removed Pin From Net: NetName=GND Pin=j1-7
+Removed Pin From Net: NetName=PC0 Pin=J5-1
+Removed Pin From Net: NetName=PC1 Pin=J5-2
+Removed Pin From Net: NetName=PC2 Pin=J5-3
+Removed Pin From Net: NetName=PC3 Pin=J5-4
+Removed Pin From Net: NetName=PC4 Pin=J5-5
+Removed Pin From Net: NetName=PC5 Pin=J5-6
+Removed Pin From Net: NetName=PC6 Pin=J5-7
+Removed Pin From Net: NetName=PC7 Pin=J5-8
+Removed Pin From Net: NetName=PD0 Pin=J7-1
+Removed Pin From Net: NetName=PD1 Pin=J7-2
+Removed Pin From Net: NetName=PD2 Pin=J7-3
+Removed Pin From Net: NetName=PD3 Pin=J7-4
+Removed Pin From Net: NetName=PD4 Pin=J7-5
+Removed Pin From Net: NetName=PD5 Pin=J7-6
+Removed Pin From Net: NetName=PD6 Pin=J7-7
+Removed Member From Class: ClassName=Sheet1 Member=J5
+Removed Member From Class: ClassName=Sheet1 Member=J7
+Added Component: Designator=h?(male header 8x2.54)
+Added Component: Designator=h?(male header 8x2.54)
+Added Component: Designator=h?(male header 8x2.54)
+Added Component: Designator=h?(male header 8x2.54)
+Added Pin To Net: NetName=PA0 Pin=h?-0
+Added Pin To Net: NetName=PB0 Pin=h?-0
+Added Pin To Net: NetName=PC0 Pin=h?-0
+Added Pin To Net: NetName=PD0 Pin=h?-0
+Added Pin To Net: NetName=PA1 Pin=h?-1
+Added Pin To Net: NetName=PB1 Pin=h?-1
+Added Pin To Net: NetName=PC1 Pin=h?-1
+Added Pin To Net: NetName=PD1 Pin=h?-1
+Added Pin To Net: NetName=PA2 Pin=h?-2
+Added Pin To Net: NetName=PB2 Pin=h?-2
+Added Pin To Net: NetName=PC2 Pin=h?-2
+Added Pin To Net: NetName=PD2 Pin=h?-2
+Added Pin To Net: NetName=PA3 Pin=h?-3
+Added Pin To Net: NetName=PB3 Pin=h?-3
+Added Pin To Net: NetName=PC3 Pin=h?-3
+Added Pin To Net: NetName=PD3 Pin=h?-3
+Added Pin To Net: NetName=PA4 Pin=h?-4
+Added Pin To Net: NetName=PB4 Pin=h?-4
+Added Pin To Net: NetName=PC4 Pin=h?-4
+Added Pin To Net: NetName=PD4 Pin=h?-4
+Added Pin To Net: NetName=PA5 Pin=h?-5
+Added Pin To Net: NetName=PB5 Pin=h?-5
+Added Pin To Net: NetName=PC5 Pin=h?-5
+Added Pin To Net: NetName=PD5 Pin=h?-5
+Added Pin To Net: NetName=PA6 Pin=h?-6
+Added Pin To Net: NetName=PB6 Pin=h?-6
+Added Pin To Net: NetName=PC6 Pin=h?-6
+Added Pin To Net: NetName=PD6 Pin=h?-6
+Added Pin To Net: NetName=PA7 Pin=h?-7
+Added Pin To Net: NetName=PB7 Pin=h?-7
+Added Pin To Net: NetName=PC7 Pin=h?-7
+Added Member To Class: ClassName=Sheet1 Member=Component h? header-8
+Added Member To Class: ClassName=Sheet1 Member=Component h? header-8
+Added Member To Class: ClassName=Sheet1 Member=Component h? header-8
+Added Member To Class: ClassName=Sheet1 Member=Component h? header-8
+Added Member To Class: ClassName=Sheet1 Member=Component S1 BUTT-2
